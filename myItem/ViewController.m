@@ -19,6 +19,8 @@
 //    1.0版已经完成
 //    修改的内容
     self.view.backgroundColor = [UIColor cyanColor];
+//    这是我的分支
+    self.title = @"我的分支";
 }
 
 - (void)didReceiveMemoryWarning {
